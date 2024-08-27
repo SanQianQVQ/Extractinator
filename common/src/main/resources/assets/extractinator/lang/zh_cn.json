@@ -10,5 +10,9 @@
   "text.resourcefulconfig.extractinator.option.extractinatorDurability": "矿石提取机耐久",
   "text.resourcefulconfig.extractinator.option.extractinatorDurability.tooltip": "在矿石提取机损坏前的使用次数",
   "text.resourcefulconfig.extractinator.option.lootMultiplier": "掉落倍数",
-  "text.resourcefulconfig.extractinator.option.lootMultiplier.tooltip": "依据此处的值的大小改变掉落物的数量"
+  "text.resourcefulconfig.extractinator.option.lootMultiplier.tooltip": "依据此处的值的大小改变掉落物的数量",
+  "text.resourcefulconfig.extractinator.option.silent": "静音",
+  "text.resourcefulconfig.extractinator.option.silent.tooltip": "提取机是否应该无声运行",
+  "text.resourcefulconfig.extractinator.option.worldgen": "世界生成",
+  "text.resourcefulconfig.extractinator.option.worldgen.tooltip": "[仅限Fabric] 生成淤泥和雪泥矿石"
 }
